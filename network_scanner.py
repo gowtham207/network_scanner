@@ -1,3 +1,4 @@
+#!/usr/bin/python2
 import scapy.all as scapy
 import optparse
 
